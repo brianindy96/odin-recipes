@@ -21,3 +21,7 @@ Things I learnt in the course:
 
 
 Reflection: 
+
+1. It takes more than what we learnt in the Chapters to make a beautiful site. Without CSS, HTML is informative, but not attractive. 
+
+2. using Git and pushing things to Github is still a bit confusing for me. 
